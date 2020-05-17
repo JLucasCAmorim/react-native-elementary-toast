@@ -1,6 +1,6 @@
 {
   "name": "react-native-elementary-toast",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A react native module to show toast like android, it works on iOS and Android.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -29,14 +29,11 @@
     "url": "https://github.com/JLucasCAmorim/react-native-elementary-toast/issues"
   },
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.5.10"
   },
   "peerDependencies": {
-    "react-native": ">=0.20.0",
-    "prop-types": "^15.5.7"
+    "prop-types": "^15.5.7",
+    "react-native": ">=0.20.0"
   },
-  "homepage": "https://github.com/JLucasCAmorim/react-native-elementary-toast#readme",
-  "dependencies": {
-    "prop-types": "^15.5.10"
-  }
+  "homepage": "https://github.com/JLucasCAmorim/react-native-elementary-toast#readme"
 }
