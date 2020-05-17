@@ -1,6 +1,6 @@
 import { Component, ReactNode } from "react";
 
-declare module "react-native-easy-toast" {
+declare module "react-native-elementary-toast" {
   export interface DURATION {
     LENGTH_SHORT: number;
     FOREVER: number;
