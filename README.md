@@ -1,6 +1,8 @@
 # react-native-elementary-toast
 A react native module to show toast like android, it works on iOS and Android.
 
+This is based on work at https://github.com/crazycodeboy/react-native-easy-toast.
+
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/JLucasCAmorim/react-native-elementary-toast/pulls)
 [ ![NPM version](http://img.shields.io/npm/v/react-native-elementary-toast.svg?style=flat)](https://www.npmjs.com/package/react-native-elementary-toast)
 [![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/JLucasCAmorim/react-native-elementary-toast/master/LICENSE)
